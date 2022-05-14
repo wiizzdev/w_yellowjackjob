@@ -3,7 +3,7 @@ Yellow Jack Job / RageUI v2 / Optimisé 0.00ms / Full Configurable
 
 #### Discord : https://discord.gg/VpYP58ZjmD
 
-#### Preview : bientôt
+#### Preview : https://youtu.be/KlshRpXADjw
 
 - Configuration facile
 
